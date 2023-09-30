@@ -1,0 +1,8 @@
+.product-title {
+  text-decoration: none;
+  color: black;
+}
+
+.product-title:hover {
+  opacity: 0.8;
+}
